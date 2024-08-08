@@ -1,7 +1,5 @@
 # Data-Driven-Text-Classification-Predicting-Target-Labels-with-NLP-Techniques-
 
-# Natural Language Processing with Disaster Tweets
-
 ## Introduction
 This project aims to predict which tweets are about real disasters and which ones are not. It uses various Natural Language Processing (NLP) techniques and machine learning models to classify tweets.
 
